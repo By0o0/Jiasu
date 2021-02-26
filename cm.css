@@ -295,7 +295,7 @@ html{content:""}
 .cc-say a{color:#484848!important}
 .cc-say a:hover{color:#381eff!important}
 p.m-zy{letter-spacing:1px!important;line-height:1.75!important;margin-bottom:0!important}
-.m-header{color:#fff;text-align:center;vertical-align:middle;background-size:cover;background-position:center top;background-repeat:no-repeat}
+.m-header{color:#fff;text-align:left;vertical-align:middle;background-size:cover;background-position:center top;background-repeat:no-repeat}
 .m-header a{color:#fff!important}
 .mheader{vertical-align:middle;display:inline-flex;padding:170px 30px 20px 30px}
 .mheader img{display:inline;width:55px;height:55px}
