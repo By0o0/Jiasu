@@ -78,7 +78,7 @@ h1,h2,h3,h4,h5,h6{text-rendering:optimizeLegibility}
 .pagination .pre{float:left}
 .pagination .next{float:right}
 .markdown{color:#555}
-.markdown h1,.markdown h2,.markdown h3,.markdown h4,.markdown h5,.markdown h6{margin:2.5em 0 1.3em 0;color:#000}
+.markdown h1,.markdown h2,.markdown h3,.markdown h4,.markdown h5,.markdown h6{margin:2.5em 0 1.3em 0;color:rgb(0 0 0 / 70%)}
 .markdown h1{font-size:1.35em}
 .markdown h2{font-size:1.25em}
 .markdown h3{font-size:1.15em}
